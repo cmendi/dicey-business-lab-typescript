@@ -1,0 +1,15 @@
+{
+	"name": "dicey-business-lab",
+	"version": "1.0.0",
+	"description": "Covalence",
+	"main": "app.js",
+	"scripts": {
+		"dev": "tsc app.ts -w"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.2.2"
+	}
+}
